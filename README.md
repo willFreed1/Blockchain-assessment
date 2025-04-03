@@ -33,3 +33,5 @@ To run in Node.js:
 ```
 node blockchain-assessment.js
 ```
+
+![Test Image](test.png)
